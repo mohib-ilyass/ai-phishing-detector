@@ -165,6 +165,15 @@ pickle-mixin
 
 ---
 
+## 📄 Project Report
+A detailed academic report covering methodology, feature engineering, 
+model evaluation, and results.
+
+> 🎓 Developed as part of the **Artificial Intelligence** course at  
+> **COMSATS University Islamabad** under the supervision of **Sir Yasir Munir**
+
+👉 [View Full Report](project-report.pdf)
+
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer)
