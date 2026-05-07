@@ -113,14 +113,19 @@ cd ai-phishing-detector
 ```bash
 pip install -r requirements.txt
 ```
+### Step 3 — Download the Dataset
+Download the dataset from Kaggle:
+👉 [Malicious URLs Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
 
-### Step 3 — Train the model first ⚠️
+Rename the downloaded file to `dataset.csv` and place it in the root folder.
+
+### Step 4 — Train the model first ⚠️
 ```bash
 python train_model.py
 ```
 > This generates `phishing_model.pkl`. **Must be done before running the app.**
 
-### Step 4 — Launch the app
+### Step 5 — Launch the app
 ```bash
 streamlit run app.py
 ```
