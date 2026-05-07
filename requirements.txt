@@ -1,0 +1,20 @@
+# AI Phishing URL Detector - Dependencies
+# Python 3.8+
+
+# Web Interface
+streamlit>=1.28.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Model Serialization
+pickle-mixin>=1.0.2
+
+# ──────────────────────────────────────────────
+# DATASET (not included due to size)
+# Download from Kaggle and rename to dataset.csv
+# https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
+# Place dataset.csv in the root folder before running train_model.py
+# ──────────────────────────────────────────────
