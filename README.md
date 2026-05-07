@@ -86,9 +86,8 @@ ai-phishing-detector/
 │
 ├── app.py              # Streamlit web application
 ├── train_model.py      # Model training script
-├── phishing_model.pkl  # Saved trained model (generated after training)
-├── dataset.csv         # Training dataset
 ├── requirements.txt    # Dependencies
+├── project-report.pdf  # Detailed project report
 └── screenshots/        # UI screenshots
     ├── safe.png
     ├── malicious.png
